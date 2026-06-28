@@ -1,241 +1,225 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Parmar+Ajay;Frontend+Developer+%F0%9F%92%BB;React+%7C+Tailwind+%7C+GSAP;AI%2FML+Enthusiast+%F0%9F%A4%96;Building+Modern+Web+Experiences" alt="Typing SVG" />
-</h1>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Ajay%20Parmar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Software%20Developer%20%7C%20Building%20Production-Grade%20Web%20Apps&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<p align="center">
-  <strong>B.Tech CSE Student | Frontend Developer | Motion UI Specialist | AI/ML Explorer</strong><br>
-  📍 Visnagar, Gujarat, India
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Next.js+%7C+React+%7C+Node.js+%7C+PostgreSQL;Building+Production-Deployed+Platforms;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
 
-## 👨‍💻 About Me
+<br/><br/>
 
-I'm **Parmar Ajay**, a passionate **B.Tech Computer Science & Engineering** student at **Sankalchand Patel College of Engineering** with expertise in building **fast, responsive, and visually stunning web applications**. I specialize in modern frontend technologies and have a growing interest in **AI-driven development** and **cloud computing**.
+<img src="https://img.shields.io/badge/Status-Open_to_Work-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Location-Gujarat,_India-60A5FA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Remote-Worldwide-F97316?style=for-the-badge" />
 
-🚀 **What I Do:**
-- Build **high-performance React applications** with smooth animations
-- Create **responsive, pixel-perfect UI/UX** using Tailwind CSS
-- Implement **motion design** with GSAP & Framer Motion
-- Explore **AI/ML fundamentals** and **Prompt Engineering**
-- Deploy scalable solutions with **cloud technologies**
+<br/>
 
-💡 **Current Focus:**
-- Mastering advanced React patterns & state management
-- Building AI-powered web applications
-- Contributing to open-source projects
-- Enhancing skills in **Generative AI** and **Cloud Architecture**
+<a href="mailto:parmarajay5664@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ajayparmar27/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/parmarajay2712" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-🎯 **Career Goal:**  
-Seeking opportunities as a **Frontend Developer | React Developer | AI-Assisted Developer** to create impactful products and work with cutting-edge technologies.
+</div>
 
----
+<br/>
 
-## 🛠️ Tech Stack & Skills
+## About Me
 
-### **Languages & Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+I'm a **Full-Stack Software Developer** and Computer Science Engineering graduate who builds and ships complete, production-deployed web applications — not just tutorials. I work end-to-end: database schema design, backend APIs and authentication, and the frontend that ties it all together.
 
-### **Animation & Motion UI**
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+I've independently designed, built, and deployed **two full-stack platforms live in production** — a digital asset management system on Next.js 15 with Server Actions and Drizzle ORM, and a full job marketplace on the MERN stack with JWT authentication. Alongside that, I've worked across fintech, frontend, and AI/cloud internships, picking up real database optimization and Agile workflow experience along the way.
 
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+```
+const ajay = {
+  role: "Full-Stack Software Developer",
+  stack: ["React", "Next.js", "Node.js", "Express", "PostgreSQL", "MongoDB"],
+  currentlyLearning: ["System Design", "Advanced DSA"],
+  lookingFor: "Full-Stack / Frontend roles — onsite (Gujarat) or remote (worldwide)",
+};
+```
 
-### **AI/ML & Cloud**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibm-cloud&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<br/>
 
-### **Core Skills**
-- **Frontend Development:** React.js, Context API, React Router v6, Component Architecture
-- **Responsive Design:** Mobile-first approach, Cross-browser compatibility
-- **Motion Design:** GSAP animations, Framer Motion, Lottie
-- **Version Control:** Git, GitHub, CI/CD workflows
-- **AI/ML Basics:** Prompt Engineering, Generative AI, Model Training
-- **Cloud Computing:** IBM Cloud, Oracle Cloud, AWS basics
-- **Soft Skills:** Team Collaboration, Problem Solving, Technical Documentation
+## Tech Stack
 
----
+<div align="center">
 
-## 💼 Professional Experience
+### Languages & Frontend
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 
-### 🔹 **Employability Skills & Digital Literacy with AI Intern**
-**Edunet Foundation** | *Nov 2025 - Present* | Remote  
-- Developing technical and professional capabilities through **IBM SkillsBuild**
-- Building AI literacy and digital workplace readiness skills
-- Working on real-world projects with structured mentorship
-- Strengthening problem-solving and technical documentation
+### Backend & Databases
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 
-### 🔹 **AI & Cloud Intern**
-**Edunet Foundation** | *Sep 2025 - Oct 2025* | Remote  
-- Gained hands-on experience with **IBM Cloud** and AI workflows
-- Performed data preprocessing, model training, and evaluation using Python
-- Built AI-driven projects demonstrating real-world problem-solving
-- Learned cloud architecture, SaaS models, and AI tooling
+### Animation, Tools & Cloud
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+<img src="https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibm&logoColor=white" />
 
-### 🔹 **Frontend Intern**
-**Edunet Foundation** | *Aug 2025 - Sep 2025* | Remote  
-- Developed responsive UI components using **React, Tailwind CSS, JavaScript**
-- Built **Smart Study Planner** project for students
-- Participated in code reviews and mentor-led sessions
-- Improved performance optimization and best-practice coding
+</div>
 
----
+<br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🛒 **E-Commerce Platform**
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://ecommerce-website-official.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmarajay2712/Code-Editor-Live-in-Browser)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A **high-performance e-commerce platform** built with React 18, featuring:
-- ⚡ Enterprise-grade React SPA architecture
-- 🔐 Clerk-ready authentication with protected routes
-- 🎨 Dark Neon UI with TailwindCSS
-- 🔍 Advanced filtering (Brand, Category, Price, Search)
-- 🛒 Real-time cart system with LocalStorage persistence
-- 🗺️ OpenStreetMap geolocation integration
-- 📱 Fully responsive design with smooth animations
+### 🗂️ Asset Manager
+**Full-stack digital asset management platform**
 
-**Tech Stack:** React.js, Tailwind CSS, Context API, React Router v6, Axios, Lottie
+Built on Next.js 15 App Router using React Server Components and Server Actions — zero REST API boilerplate. Google OAuth via better-auth with role-based access control, an admin approval workflow, and signed direct-to-Cloudinary uploads.
 
----
+**Stack:** Next.js 15 · TypeScript · PostgreSQL · Drizzle ORM · better-auth · Cloudinary
 
-### 💻 **Live Code Editor**
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://codeeditor-live-in-browser.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parmarajay2712/Code-Editor-Live-in-Browser)
+[**Live Demo**](https://asset-manager-fo38.vercel.app) · [**Source Code**](https://github.com/parmarajay2712/Asset-Manager)
 
-A **modern web-based code editor** inspired by CodePen and JSFiddle:
-- ⚡ Real-time live preview with sub-millisecond rendering
-- 🔒 Zero-backend architecture - works entirely offline
-- 🎨 Premium ergonomic UI/UX for developers
-- 🐛 Enhanced debugging panel with structured console logs
-- 📝 Supports HTML, CSS, and JavaScript
-- 🚀 Perfect for rapid prototyping and learning
+</td>
+<td width="50%" valign="top">
 
-**Tech Stack:** HTML5, CSS3, JavaScript, Ace Editor
+### 💼 Job Listing Portal
+**Full-stack job marketplace platform**
 
----
+Production-grade MERN application connecting job seekers with recruiters. JWT authentication, bcrypt password hashing, Helmet security headers, and complete CRUD with Redux Persist state management.
 
-## 🏆 Certifications & Achievements
+**Stack:** React 18 · Node.js · Express · MongoDB · Redux Toolkit · JWT
 
-### **Cloud & AI**
-- 🥇 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
-- 🥇 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
-- ☁️ **AWS Solutions Architecture Job Simulation** - Forage
+[**Live Demo**](https://job-listing-portal-sage.vercel.app/) · [**Source Code**](https://github.com/parmarajay2712/Job-Listing-Portal)
 
-### **Professional Development**
-- 💼 **TCS iON Career Edge - Young Professional**
-- 📊 **Career Essentials in Business Analysis** - Microsoft & LinkedIn
-- 🤖 **Career Essentials in Generative AI** - Microsoft & LinkedIn
-- 💻 **Career Essentials in Software Development** - Microsoft & LinkedIn
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### **Web Development**
-- 🌐 **Web Development Fundamentals** - IBM
-- ⚛️ **Skyscanner Frontend Software Engineering Job Simulation** - Forage
-- 💻 **J.P. Morgan Software Engineering Job Simulation** - Forage
-- 🛠️ **Datacom Software Development Job Simulation** - Forage
+### 🛒 E-Commerce Platform
+**High-performance React SPA**
 
-### **Project Management & Skills**
-- 📋 **Career Essentials in Project Management** - Microsoft & LinkedIn
-- 🔐 **Career Essentials in Cybersecurity** - Microsoft & LinkedIn
-- 🐙 **Career Essentials in GitHub Professional Certificate** - GitHub
-- 🤝 **Professional Soft Skills Learning Pathway** - LinkedIn
+Dynamic product pages, advanced filtering by brand/category/price, real-time cart persistence, and OpenStreetMap geolocation integration, with a dark-neon Tailwind UI and Lottie animations.
 
----
+**Stack:** React 18 · Tailwind CSS · Context API · Axios
 
-## 📊 GitHub Stats
+[**Live Demo**](https://ecommerce-website-official.netlify.app/) · [**Source Code**](https://github.com/parmarajay2712/Ecommerce-Website)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parmarajay2712&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parmarajay2712&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
-</p>
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parmarajay2712&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+### 💻 Live Code Editor
+**Browser-based code editor**
 
----
+CodePen-style live editor with real-time preview, zero backend (works fully offline), and a built-in debugging panel with structured console logs — for HTML, CSS, and JavaScript.
 
-## 🎓 Education
+**Stack:** HTML5 · CSS3 · JavaScript · Ace Editor
 
-**Bachelor of Technology in Computer Science Engineering**  
-**Sankalchand Patel College of Engineering (SPCE)** - Visnagar  
-*Jul 2023 - May 2026* | **CGPA: 7.67**
+[**Live Demo**](https://codeeditor-live-in-browser.netlify.app/) · [**Source Code**](https://github.com/parmarajay2712/Code-Editor-Live-in-Browser)
 
-**Relevant Coursework:**
-- Data Structures & Algorithms (DSA)
-- Database Management Systems
-- Object-Oriented Programming (OOP)
-- Web Technologies
-- Cloud Computing Fundamentals
-- Artificial Intelligence & Machine Learning Basics
-- Software Engineering & SDLC
-- Computer Networks & Operating Systems
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 🤝 Let's Connect
+## Professional Experience
 
-<p align="center">
-  <a href="mailto:parmarajay5664@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/parmar-ajay2712" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/parmarajay2712" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
- 
-</p>
+<table>
+<tr>
+<td width="20%"><strong>Feb 2026 – Mar 2026</strong></td>
+<td>
+<strong>Software Development Engineer (SDE) Intern</strong> · Bluestock Fintech<br/>
+Built full-stack features and real-time financial dashboards with React.js and Next.js; designed RESTful APIs connecting frontend dashboards to backend financial data services. Optimized PostgreSQL performance through schema refinement and indexing.
+</td>
+</tr>
+<tr>
+<td width="20%"><strong>Nov 2025 – Present</strong></td>
+<td>
+<strong>Employability Skills & Digital Literacy with AI Intern</strong> · Edunet Foundation<br/>
+Building technical and professional capabilities through IBM SkillsBuild, with a focus on AI literacy and digital workplace readiness.
+</td>
+</tr>
+<tr>
+<td width="20%"><strong>Sep 2025 – Oct 2025</strong></td>
+<td>
+<strong>AI & Cloud Intern</strong> · Edunet Foundation<br/>
+Hands-on experience with IBM Cloud deployment, data preprocessing, and model evaluation using industry tools.
+</td>
+</tr>
+<tr>
+<td width="20%"><strong>Aug 2025 – Sep 2025</strong></td>
+<td>
+<strong>Frontend Development Intern</strong> · Edunet Foundation<br/>
+Built the Smart Study Planner using HTML5, CSS3, JavaScript, and Tailwind CSS with reusable component architecture.
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## 💡 What I'm Looking For
+## Certifications & Job Simulations
 
-✨ **Open to Opportunities:**
-- 💼 Frontend Developer roles
-- ⚛️ React.js / JavaScript Developer positions
-- 🎨 Web Development or UI Engineering projects
-- 🤖 AI/ML or Generative AI-based opportunities
-- 🌐 Freelance web development work
-- 🚀 Collaboration on innovative tech projects
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/Oracle_Cloud-AI_Foundations_Associate-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle_Cloud-Generative_AI_Professional-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Forage-AWS_Solutions_Architecture-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Forage-Skyscanner_Frontend_Engineering-0770E3?style=flat-square" />
+<img src="https://img.shields.io/badge/Forage-J.P._Morgan_Software_Engineering-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Forage-Datacom_Software_Development-00A4E4?style=flat-square" />
+<img src="https://img.shields.io/badge/IBM-Web_Development_Fundamentals-1261FE?style=flat-square&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Career_Essentials-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/TCS_iON-Career_Edge_Young_Professional-EE3124?style=flat-square" />
 
-## 📈 Activity Graph
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parmarajay2712&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</p>
+<br/>
 
----
+## Education
 
-## 🏅 Achievements
+**B.Tech in Computer Science and Engineering**
+Sankalchand Patel College of Engineering, Visnagar · Jul 2023 – May 2026 · CGPA: 8.18/10.0
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=parmarajay2712&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</p>
+**Relevant Coursework:** DSA · Operating Systems · DBMS · Computer Networks · Compiler Design · Web Technologies · OOP · Cloud Computing · AI/ML
 
----
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+## GitHub Stats
 
-<p align="center">
-  <i>⭐ If you like my work, consider giving a star to my repositories! ⭐</i><br>
-  <i>💬 "Building the future, one component at a time." 💬</i>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=parmarajay2712&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=parmarajay2712&theme=tokyonight&hide_border=true" height="165" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parmarajay2712&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parmarajay2712&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+<br/>
+
+## What I'm Looking For
+
+Currently seeking **Full-Stack** or **Frontend Developer** roles — open to opportunities in Gujarat as well as remote positions worldwide. I'm looking for a team where I can keep building production systems, learn from experienced engineers, and grow into a stronger backend and systems-design engineer.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=120&section=footer" />
+
+<i>Open to connecting — reach out via email or LinkedIn above.</i>
+
+</div>
