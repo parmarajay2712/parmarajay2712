@@ -28,14 +28,17 @@ I'm a **Full-Stack Software Developer** and Computer Science Engineering graduat
 
 I've independently designed, built, and deployed **two full-stack platforms live in production** — a digital asset management system on Next.js 15 with Server Actions and Drizzle ORM, and a full job marketplace on the MERN stack with JWT authentication. Alongside that, I've worked across fintech, frontend, and AI/cloud internships, picking up real database optimization and Agile workflow experience along the way.
 
-```js
-const ajay = {
-  role: "Full-Stack Software Developer",
-  stack: ["React", "Next.js", "Node.js", "Express", "PostgreSQL", "MongoDB"],
-  currentlyLearning: ["System Design", "Advanced DSA"],
-  lookingFor: "Full-Stack / Frontend roles - onsite (Gujarat) or remote (worldwide)",
-};
-```
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Currently_Learning-System_Design-8B5CF6?style=flat-square&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/Currently_Learning-Advanced_DSA-8B5CF6?style=flat-square&logo=leetcode&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Looking_For-Full--Stack_%2F_Frontend_Roles-22c55e?style=flat-square" />
+<img src="https://img.shields.io/badge/Location-Gujarat_%7C_Remote_Worldwide-F97316?style=flat-square" />
+
+</div>
 
 <br/>
 
